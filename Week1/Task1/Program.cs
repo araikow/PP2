@@ -11,7 +11,8 @@ namespace Task1
      public  static bool checkforprime(int n)
         {
             if ((n == 1 || n == 0)) return false;
-            for(int i = 2; i <= Math.Sqrt(n); i++)
+            
+            for(int i = 2; i <= (int)Math.Floor(Math.Sqrt(n)); i++)
             {
                 if (n % i == 0) return false;
             }
@@ -32,10 +33,10 @@ namespace Task1
             }
             Console.WriteLine(numbers.Count);
             for(int i = 0; i < numbers.Count; i++){
-                Console.WriteLine(numbers[i] + " ");
+                Console.Write(numbers[i] + " ");
              }
+            
             Console.ReadKey();
         }
     }
 }
-'
