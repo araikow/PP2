@@ -12,10 +12,16 @@ namespace Task2
             public string name;
             public string ID;
             public int year;
+            public Student( string name, string ID, int year){
+            this.name = name;
+            this.ID = ID;
+            this.year = year;
+            }
             public void printStudent()
             {
                 Console.WriteLine("{0} {1} is the {2} year student.", name,ID,year);
             }
+
             public void yearUp(int currentyear) {
                 year += currentyear;
             }
