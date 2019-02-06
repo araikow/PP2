@@ -22,19 +22,17 @@ namespace Task2
                 Console.WriteLine("{0} {1} is the {2} year student.", name,ID,year);
             }
 
-            public void yearUp(int currentyear) {
-                year += currentyear;
+            public void yearUp() {
+               year++;
             }
         }
         static void Main(string[] args)
         {
-            Student stud = new Student();
-            stud.name = "ARAY";
-            stud.ID = "18BD000001";
-            stud.year = 0;
+            Student stud = new Student("Aray","18BD",0);
+            
             for (int i = 0; i < 6; i++)
             {
-                stud.yearUp(1);
+                stud.yearUp();
                 stud.printStudent();
                 Console.ReadKey();
             }

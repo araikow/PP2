@@ -23,12 +23,12 @@ namespace Task1
             int n = int.Parse(Console.ReadLine());
 
             List<int> numbers = new List<int>();
-            string line2 = Console.ReadLine();
-            string[] nums = line2.Split();
+            string line2 = Console.ReadLine();//read the elements
+            string[] nums = line2.Split();//create an array from given elements by spliting
             for(int i = 0; i < nums.Length; i++)
             {
-                int number = Convert.ToInt32(nums[i]);
-                if(checkforprime(number) == true)
+                int number = Convert.ToInt32(nums[i]);//convert each element of array to int
+                if(checkforprime(number) == true)//if given number is prime,then add to list
                 numbers.Add(number);
             }
             Console.WriteLine(numbers.Count);
