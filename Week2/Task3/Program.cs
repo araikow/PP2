@@ -9,31 +9,32 @@ namespace Task3
 {
     class Program
     {
-        public static void PrintSpaces(int space)
+        public static void PrintSpaces(int space) // function,which print spaces
         {
             for (int i = 0; i < space; i++)
                 Console.Write("    ");
         }
 
-        public static void Ex5(DirectoryInfo dir, int space)
+        public static void Getfiledirect(DirectoryInfo dir, int space)
         {
-            foreach (DirectoryInfo d in dir.GetDirectories())
-            {
-                PrintSpaces(space);
-                Console.WriteLine(d.Name);
-                Ex5(d,space + 1);
-            }
-            foreach (FileInfo f in dir.GetFiles())
+             foreach (FileInfo f in dir.GetFiles())//we find files
             {
                 PrintSpaces(space);
                 Console.WriteLine(f.Name);
             }
+            foreach (DirectoryInfo d in dir.GetDirectories())
+            {
+                Console.WriteLine(space);
+                Console.WriteLine(d.Name);
+                Getfiledirect(d,space + 1);//recall the function again
+            }
+           
             
         }
         static void Main(string[] args)
         {
             DirectoryInfo inf = new DirectoryInfo(@"C:\Users\Admin\Documents\books");
-            Ex5(inf,1);
+            Getfiledirect(inf,0);
             Console.ReadKey();
         }
     }
