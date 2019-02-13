@@ -10,13 +10,14 @@ namespace Task1
 {
     class Program
     {
-        public static bool checkforpalindrome(string s){
+        public static bool checkforpalindrome(string s){//function,which checks for palindrome of the string
         char[] letter = new char[s.Length];//creates an array of chars from given string
         letter = s.ToCharArray();
         int length = s.Length;
         for (int i = 0; i < length / 2; i++)     // 1234321:length = 7;
         {
-        if (letter[i] != letter[length - i - 1]) // 1 == 1   
+        if (letter[i] != letter[length - i - 1]) // 1 == 1  
+                                                 // 2 == 2 etc.
         return false;
         }
          return true;
@@ -24,7 +25,7 @@ namespace Task1
         static void Main(string[] args)
         {
             string direction = @"C:\Users\Admin\Documents\PP2\PP2\Week2\Task1\1.txt";// location of a file
-            string check = File.ReadAllText(direction);//reads the file from given direction
+            string check = File.ReadAllText(direction);//reads the file from given direction and saves to string "check"
             if(checkforpalindrome(check) == true)// checks if the given string is palindrome or not 
             {
                 Console.WriteLine("YES");

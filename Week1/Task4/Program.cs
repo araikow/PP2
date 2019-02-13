@@ -11,9 +11,11 @@ namespace Task4
         static void F2()
         {
             int n = int.Parse(Console.ReadLine());  
-            string[,] a = new string[n, n];
+            string[,] a = new string[n, n];// we create two-dimensional array 
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)//we print [*] in such rule
+                                        // the first line - [*]
+                                        // the second line -[*] [*] 
                 for (int j = 0; j < i + 1; j++)
                     a[i, j] = "[*]";
 
