@@ -11,7 +11,7 @@ namespace Tryiton
             public string path;
             public int sz;
             public FileSystemInfo currentfs = null;
-            DirectoryInfo dir = null;
+            public DirectoryInfo dir = null;
             public FarManager()
             {
                 cursor = 0;
@@ -27,12 +27,12 @@ namespace Tryiton
             {
                 if (cursor == index)//to highlight the directory or file,which cursor shows
                 {
-                    Console.BackgroundColor = ConsoleColor.DarkRed;
                     currentfs = f;
+                    Console.BackgroundColor = ConsoleColor.DarkRed;
                 }
                 else {
                 Console.BackgroundColor = ConsoleColor.Black;
-                    }
+                     }
                 if (f.GetType() == typeof(DirectoryInfo))
                 {
                     Console.ForegroundColor = ConsoleColor.DarkGreen;//if it is directory we paint to green
@@ -47,9 +47,9 @@ namespace Tryiton
                 dir = new DirectoryInfo(path);
                 int ind = 1;
                 FileSystemInfo[] fs = dir.GetFileSystemInfos();//we add to array all filesysteminfos(directories and files) from given directory
-                for (int i = 0; i < fs.Length; i++)
-                {
-                    Color(fs[i], i);//we try to color each element of the array
+                for(int i = 0; i < fs.Length; i++ ){
+
+                    Color(fs[i],i);
                     Console.WriteLine(ind + "." + " " + fs[i]);
                     ind++;
                 }
@@ -69,7 +69,6 @@ namespace Tryiton
                 {
                     cursor = 0;
                 }
-
             }
             public void Start()
             {
@@ -88,7 +87,7 @@ namespace Tryiton
                     }
                     if (keyinfo.Key == ConsoleKey.Enter)//I choose the element of an array then press "Enter"
                     {
-                        if (currentfs.GetType() == typeof(DirectoryInfo))//If it is directory,it will return the pass,which includes this directory to,
+                        if (currentfs.GetType() == typeof(DirectoryInfo)){//If it is directory,it will return the pass,which includes this directory to,
                                                                          //it means that we go into the directory
                             cursor = 0;
                             path = currentfs.FullName;
@@ -104,7 +103,6 @@ namespace Tryiton
                                 Console.WriteLine(sr.ReadToEnd());//we print with the function ReadtoEnd
                             }
                             Console.ReadKey();
-
                         }
                     }
                      if (keyinfo.Key == ConsoleKey.Delete)//here we try to delete elements of an array using "delete" button
@@ -123,13 +121,18 @@ namespace Tryiton
                                  Console.WriteLine("Are you sure?");
                                  if (Console.ReadKey().Key == ConsoleKey.Y)//if yes,then delete
                                  {
-                                     Directory.Delete(currentfs.FullName,true)
+                                     Directory.Delete(currentfs.FullName,true);
                                  }
-
+                                // if (Console.ReadKey().Key == ConsoleKey.N)//if yes,then delete
+                                // {
+                                     //Directory.Delete(currentfs.FullName,false);
+                                 //   path = currentfs.FullName;
+                                // }
+                                 
                              }
                          }
                      
-                         else if (currentfs.GetType() == typeof(FileInfo))//deletin files
+                         else if (currentfs.GetType() == typeof(FileInfo))//deleting files
                          {
                              File.Delete(currentfs.FullName);
                          }
@@ -175,13 +178,13 @@ namespace Tryiton
                     }
 
                 }
-
-            }
+                }
+            
             static void Main(string[] args)
             {
-                string path = @"C:\Users\Admin\Documents\data";
-                FarManager far = new FarManager(path);
-                far.Start();
+                string path = @"C:\Users\Admin\Documents\books";
+                FarManager fr = new FarManager(path);
+                fr.Start();
             }
         }
     }

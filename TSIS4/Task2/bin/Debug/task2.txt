@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfProgress xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Progress>
+    <score>0</score>
+  </Progress>
+  <Progress>
+    <score>100</score>
+  </Progress>
+</ArrayOfProgress>
