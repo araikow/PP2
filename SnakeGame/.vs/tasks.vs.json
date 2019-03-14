@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-level2",
+      "appliesTo": "SnakeGame/level2.txt",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-level2",
+      "appliesTo": "SnakeGame/level2.txt",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-level2",
+      "appliesTo": "SnakeGame/level2.txt",
+      "type": "launch"
+    }
+  ]
+}
