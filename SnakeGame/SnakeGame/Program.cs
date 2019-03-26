@@ -10,24 +10,14 @@ namespace SnakeGame
     {
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
+            Console.Title = "SNAKE FOR PP2";
+            Console.WriteLine("Enter your name:");
             string username = Console.ReadLine();
-            UserItems user = new UserItems(username);
+            UserItems user = new UserItems(username,0);
 
-            ConsoleKeyInfo keyInfo = Console.ReadKey();
-
-            if (keyInfo.Key == ConsoleKey.Enter){
             Console.CursorVisible = false;
-            Game game = new Game();
+            Game game = new Game(user);
             game.Start();
-                if (keyInfo.Key == ConsoleKey.Spacebar)
-                {
-                    game.GamePause();
-                }
-                Console.SetCursorPosition(25, 25);
-            Console.WriteLine(user);
-            }
-            
         }
     }
 }
