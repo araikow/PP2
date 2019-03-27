@@ -54,7 +54,6 @@ namespace SnakeGame
                 {
                     GameContinue();
                 }
-               
             }
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
@@ -110,6 +109,5 @@ namespace SnakeGame
             wall.DeSerialize();
             food.DeSerialize();
         }
-        
     }
 }
