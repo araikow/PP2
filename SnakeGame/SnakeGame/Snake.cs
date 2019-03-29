@@ -22,7 +22,6 @@ namespace SnakeGame
         Direction direction = Direction.NONE;
         public Snake()
         {
-
         }
         public Snake(int x,int y,string sign,ConsoleColor color) : base(x, y, sign, color)
         {
@@ -41,6 +40,7 @@ namespace SnakeGame
                     body[0].X--;
                     break;
                 case Direction.UP:
+
                     body[0].Y--;
                     break;
                 case Direction.RIGHT:

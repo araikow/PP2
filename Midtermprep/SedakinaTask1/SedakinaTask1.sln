@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedakinaTask1", "SedakinaTask1\SedakinaTask1.csproj", "{C4199894-A06A-4440-B362-E543F00DBF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4199894-A06A-4440-B362-E543F00DBF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4199894-A06A-4440-B362-E543F00DBF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4199894-A06A-4440-B362-E543F00DBF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4199894-A06A-4440-B362-E543F00DBF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1605379F-915B-4CC5-8B9F-E01C5D716E92}
+	EndGlobalSection
+EndGlobal

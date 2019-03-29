@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\problems\YelibayTask2\YelibayTask2\obj\Debug\YelibayTask2.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\problems\YelibayTask2\YelibayTask2\obj\Debug\YelibayTask2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\problems\YelibayTask2\YelibayTask2\bin\Debug\YelibayTask2.exe.config
+C:\Users\Admin\Documents\problems\YelibayTask2\YelibayTask2\bin\Debug\YelibayTask2.exe
+C:\Users\Admin\Documents\problems\YelibayTask2\YelibayTask2\bin\Debug\YelibayTask2.pdb
+C:\Users\Admin\Documents\problems\YelibayTask2\YelibayTask2\obj\Debug\YelibayTask2.exe
+C:\Users\Admin\Documents\problems\YelibayTask2\YelibayTask2\obj\Debug\YelibayTask2.pdb
+C:\Users\Admin\Documents\problems\YelibayTask2\YelibayTask2\bin\Debug\Gun.txt

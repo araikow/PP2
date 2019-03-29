@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\problems\XmlBinary\XmlBinary\bin\Debug\XmlBinary.exe.config
+C:\Users\Admin\Desktop\problems\XmlBinary\XmlBinary\bin\Debug\XmlBinary.exe
+C:\Users\Admin\Desktop\problems\XmlBinary\XmlBinary\bin\Debug\XmlBinary.pdb
+C:\Users\Admin\Desktop\problems\XmlBinary\XmlBinary\obj\Debug\XmlBinary.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\problems\XmlBinary\XmlBinary\obj\Debug\XmlBinary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\problems\XmlBinary\XmlBinary\obj\Debug\XmlBinary.exe
+C:\Users\Admin\Desktop\problems\XmlBinary\XmlBinary\obj\Debug\XmlBinary.pdb

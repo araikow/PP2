@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SedakinaTask1\SedakinaTask1\bin\Debug\SedakinaTask1.exe.config
+C:\Users\Admin\source\repos\SedakinaTask1\SedakinaTask1\bin\Debug\SedakinaTask1.exe
+C:\Users\Admin\source\repos\SedakinaTask1\SedakinaTask1\bin\Debug\SedakinaTask1.pdb
+C:\Users\Admin\source\repos\SedakinaTask1\SedakinaTask1\obj\Debug\SedakinaTask1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SedakinaTask1\SedakinaTask1\obj\Debug\SedakinaTask1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SedakinaTask1\SedakinaTask1\obj\Debug\SedakinaTask1.exe
+C:\Users\Admin\source\repos\SedakinaTask1\SedakinaTask1\obj\Debug\SedakinaTask1.pdb

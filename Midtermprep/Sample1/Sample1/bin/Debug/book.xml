@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <name>Aray</name>
+    <ID>123</ID>
+    <english>
+      <signiture>A</signiture>
+      <score>95</score>
+    </english>
+  </Student>
+  <Student>
+    <name>Ayau</name>
+    <ID>0000</ID>
+    <english>
+      <signiture>B</signiture>
+      <score>80</score>
+    </english>
+  </Student>
+</ArrayOfStudent>

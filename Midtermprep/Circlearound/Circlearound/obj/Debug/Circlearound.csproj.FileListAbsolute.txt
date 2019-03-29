@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\problems\Circlearound\Circlearound\bin\Debug\Circlearound.exe.config
+C:\Users\Admin\Documents\problems\Circlearound\Circlearound\bin\Debug\Circlearound.exe
+C:\Users\Admin\Documents\problems\Circlearound\Circlearound\bin\Debug\Circlearound.pdb
+C:\Users\Admin\Documents\problems\Circlearound\Circlearound\obj\Debug\Circlearound.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\problems\Circlearound\Circlearound\obj\Debug\Circlearound.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\problems\Circlearound\Circlearound\obj\Debug\Circlearound.exe
+C:\Users\Admin\Documents\problems\Circlearound\Circlearound\obj\Debug\Circlearound.pdb

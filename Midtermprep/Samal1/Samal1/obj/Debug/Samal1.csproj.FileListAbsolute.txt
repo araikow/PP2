@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\problems\Samal1\Samal1\bin\Debug\Samal1.exe.config
+C:\Users\Admin\Documents\problems\Samal1\Samal1\bin\Debug\Samal1.exe
+C:\Users\Admin\Documents\problems\Samal1\Samal1\bin\Debug\Samal1.pdb
+C:\Users\Admin\Documents\problems\Samal1\Samal1\obj\Debug\Samal1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\problems\Samal1\Samal1\obj\Debug\Samal1.exe
+C:\Users\Admin\Documents\problems\Samal1\Samal1\obj\Debug\Samal1.pdb

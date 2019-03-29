@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\problems\YelibayTask1\YelibayTask1\bin\Debug\YelibayTask1.exe.config
+C:\Users\Admin\Documents\problems\YelibayTask1\YelibayTask1\bin\Debug\YelibayTask1.exe
+C:\Users\Admin\Documents\problems\YelibayTask1\YelibayTask1\bin\Debug\YelibayTask1.pdb
+C:\Users\Admin\Documents\problems\YelibayTask1\YelibayTask1\obj\Debug\YelibayTask1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\problems\YelibayTask1\YelibayTask1\obj\Debug\YelibayTask1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\problems\YelibayTask1\YelibayTask1\obj\Debug\YelibayTask1.exe
+C:\Users\Admin\Documents\problems\YelibayTask1\YelibayTask1\obj\Debug\YelibayTask1.pdb

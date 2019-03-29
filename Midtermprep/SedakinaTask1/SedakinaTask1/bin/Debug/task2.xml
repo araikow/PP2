@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <name>0</name>
+    <number>5</number>
+  </Student>
+  <Student>
+    <name>1</name>
+    <number>33</number>
+  </Student>
+</ArrayOfStudent>>name>2</name>
+    <number>13</number>
+  </Student>
+  <Student>
+    <name>3</name>
+    <number>81</number>
+  </Student>
+  <Student>
+    <name>4</name>
+    <number>8</number>
+  </Student>
+  <Student>
+    <name>5</name>
+    <number>81</number>
+  </Student>
+  <Student>
+    <name>6</name>
+    <number>34</number>
+  </Student>
+  <Student>
+    <name>7</name>
+    <number>98</number>
+  </Student>
+</ArrayOfStudent>t>

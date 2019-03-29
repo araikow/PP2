@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <pname>Ramesh</pname>
+    <age>20</age>
+    <movue>
+      <name>Emoji movie</name>
+      <year>2017</year>
+    </movue>
+  </Person>
+  <Person>
+    <pname>Akbar</pname>
+    <age>29</age>
+    <movue>
+      <name>50 shades of gray</name>
+      <year>2015</year>
+    </movue>
+  </Person>
+  <Person>
+    <pname>Durga</pname>
+    <age>43</age>
+    <movue>
+      <name>NinjaCop</name>
+      <year>1987</year>
+    </movue>
+  </Person>
+  <Person>
+    <pname>Daler</pname>
+    <age>38</age>
+    <movue>
+      <name>Shrek</name>
+      <year>1999</year>
+    </movue>
+  </Person>
+</ArrayOfPerson>
