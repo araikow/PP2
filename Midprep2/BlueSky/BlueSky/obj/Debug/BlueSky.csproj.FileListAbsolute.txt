@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\BlueSky\BlueSky\bin\Debug\BlueSky.exe.config
+C:\Users\Admin\Desktop\BlueSky\BlueSky\bin\Debug\BlueSky.exe
+C:\Users\Admin\Desktop\BlueSky\BlueSky\bin\Debug\BlueSky.pdb
+C:\Users\Admin\Desktop\BlueSky\BlueSky\obj\Debug\BlueSky.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BlueSky\BlueSky\obj\Debug\BlueSky.Form1.resources
+C:\Users\Admin\Desktop\BlueSky\BlueSky\obj\Debug\BlueSky.Properties.Resources.resources
+C:\Users\Admin\Desktop\BlueSky\BlueSky\obj\Debug\BlueSky.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BlueSky\BlueSky\obj\Debug\BlueSky.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BlueSky\BlueSky\obj\Debug\BlueSky.exe
+C:\Users\Admin\Desktop\BlueSky\BlueSky\obj\Debug\BlueSky.pdb

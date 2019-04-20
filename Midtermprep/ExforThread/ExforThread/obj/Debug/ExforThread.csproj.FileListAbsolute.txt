@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PP2\PP2\Midtermprep\ExforThread\ExforThread\bin\Debug\ExforThread.exe.config
+C:\Users\Admin\Documents\PP2\PP2\Midtermprep\ExforThread\ExforThread\bin\Debug\ExforThread.exe
+C:\Users\Admin\Documents\PP2\PP2\Midtermprep\ExforThread\ExforThread\bin\Debug\ExforThread.pdb
+C:\Users\Admin\Documents\PP2\PP2\Midtermprep\ExforThread\ExforThread\obj\Debug\ExforThread.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PP2\PP2\Midtermprep\ExforThread\ExforThread\obj\Debug\ExforThread.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PP2\PP2\Midtermprep\ExforThread\ExforThread\obj\Debug\ExforThread.exe
+C:\Users\Admin\Documents\PP2\PP2\Midtermprep\ExforThread\ExforThread\obj\Debug\ExforThread.pdb

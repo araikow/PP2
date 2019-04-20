@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\bin\Debug\GorgeousEyes.exe.config
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\bin\Debug\GorgeousEyes.exe
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\bin\Debug\GorgeousEyes.pdb
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\obj\Debug\GorgeousEyes.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\obj\Debug\GorgeousEyes.Form1.resources
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\obj\Debug\GorgeousEyes.Properties.Resources.resources
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\obj\Debug\GorgeousEyes.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\obj\Debug\GorgeousEyes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\obj\Debug\GorgeousEyes.exe
+C:\Users\Admin\Desktop\GorgeousEyes\GorgeousEyes\obj\Debug\GorgeousEyes.pdb

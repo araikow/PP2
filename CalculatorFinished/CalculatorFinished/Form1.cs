@@ -23,10 +23,10 @@ namespace CalculatorFinished
         {
             Button bt = (Button)sender;
             if (textBox1.Text == "0")
-            {
-               textBox1.Text = "";
-               textBox1.Text += bt.Text;
-            }
+             {
+                textBox1.Text = "";
+                textBox1.Text += bt.Text;
+             }
             else if(bt.Text == ",")
             {
                 if (!textBox1.Text.Contains(","))
@@ -46,14 +46,14 @@ namespace CalculatorFinished
         }
         private void equal_click(object sender,EventArgs e)
         {
-            calculator.second_number = float.Parse(textBox1.Text);
+            calculator.second_number = double.Parse(textBox1.Text);
             calculator.calculate();
-            textBox1.Text = calculator.result.ToString();
+            textBox1.Text = calculator.result+"";
         }
         private void clear_clicked(object sender, EventArgs e)
         {
             calculator = new CalcState();
-            textBox1.Text = "";
+            textBox1.Text = "0";
         }
         private void operation2_click(object sender, EventArgs e)
         {
@@ -91,6 +91,7 @@ namespace CalculatorFinished
             {
                 textBox1.Text = textBox1.Text + text[i];
             }
+            
         }
     }
 }

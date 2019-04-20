@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\bin\Debug\CalculatorFinished.exe.config
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\bin\Debug\CalculatorFinished.exe
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\bin\Debug\CalculatorFinished.pdb
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\obj\Debug\CalculatorFinished.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\obj\Debug\CalculatorFinished.Form1.resources
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\obj\Debug\CalculatorFinished.Properties.Resources.resources
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\obj\Debug\CalculatorFinished.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\obj\Debug\CalculatorFinished.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\obj\Debug\CalculatorFinished.exe
+C:\Users\Admin\Documents\PP2\PP2\CalculatorFinished\CalculatorFinished\obj\Debug\CalculatorFinished.pdb

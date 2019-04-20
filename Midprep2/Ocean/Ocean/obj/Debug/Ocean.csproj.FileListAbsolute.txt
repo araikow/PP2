@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Ocean\Ocean\bin\Debug\Ocean.exe.config
+C:\Users\Admin\Desktop\Ocean\Ocean\bin\Debug\Ocean.exe
+C:\Users\Admin\Desktop\Ocean\Ocean\bin\Debug\Ocean.pdb
+C:\Users\Admin\Desktop\Ocean\Ocean\obj\Debug\Ocean.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Ocean\Ocean\obj\Debug\Ocean.Form1.resources
+C:\Users\Admin\Desktop\Ocean\Ocean\obj\Debug\Ocean.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ocean\Ocean\obj\Debug\Ocean.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Ocean\Ocean\obj\Debug\Ocean.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ocean\Ocean\obj\Debug\Ocean.exe
+C:\Users\Admin\Desktop\Ocean\Ocean\obj\Debug\Ocean.pdb

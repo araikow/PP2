@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.Properties.Resources.resources
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.pdb
+C:\Users\Admin\Desktop\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.Form1.resources
